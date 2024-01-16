@@ -1,4 +1,5 @@
-package com.ppam.rockpaperscissor
+package com.ppam.rspgame
+
 
 fun main() {
     var computerChoice = ""
